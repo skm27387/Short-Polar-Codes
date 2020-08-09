@@ -6,7 +6,7 @@ This work is inspired by Arikan's 2019 Shannon Lecture and accompanying papers.
 
 Arıkan, Erdal. "From sequential decoding to channel polarization and back again." arXiv preprint arXiv:1908.09594 (2019). (https://arxiv.org/abs/1908.09594)
 
-Rowshan, Mohammad, Andreas Burg, and Emanuele Viterbo. "Polarization-adjusted Convolutional (PAC) Codes: Fano Decoding vs List Decoding." arXiv preprint arXiv:2002.06805 (2020).
+Rowshan, Mohammad, Andreas Burg, and Emanuele Viterbo. "Polarization-adjusted Convolutional (PAC) Codes: Fano Decoding vs List Decoding." arXiv preprint arXiv:2002.06805 (2020). (https://arxiv.org/abs/2002.06805)
 
 This is a work in progress.
 Simulation results beyond 2.75 dB are a little off the track due to lack of enough simulation samples.
