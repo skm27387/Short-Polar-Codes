@@ -6,10 +6,11 @@ This work is inspired by Arikan's 2019 Shannon Lecture and accompanying papers.
 
 Arıkan, Erdal. "From sequential decoding to channel polarization and back again." arXiv preprint arXiv:1908.09594 (2019). (https://arxiv.org/abs/1908.09594)
 
+Yao, Hanwen, Arman Fazeli, and Alexander Vardy. "List Decoding of Arikan's PAC Codes." arXiv preprint arXiv:2005.13711 (2020). (https://arxiv.org/abs/2005.13711)
+
 Rowshan, Mohammad, Andreas Burg, and Emanuele Viterbo. "Polarization-adjusted Convolutional (PAC) Codes: Fano Decoding vs List Decoding." arXiv preprint arXiv:2002.06805 (2020). (https://arxiv.org/abs/2002.06805)
 
-Note : The curves that indicate SP Polar Codes are selectively precoded (SP) polar codes.
+Note : The curves that indicate SP Polar Codes are not Arikan's PAC codes.
 
 This is a work in progress.
-Simulation results beyond 2.75 dB are a little off the track due to lack of enough simulation samples.
-That is why we will update the results as simulation progresses.
+We will update the results as simulation progresses.
