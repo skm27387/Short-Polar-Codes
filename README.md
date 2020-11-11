@@ -28,3 +28,4 @@ It is possible to do codeword weight analysis with these codes.
 fRM_128.txt has the information bit indices to be used for RM rate profiling. 
 
 
+Disclaimer : We do not guarantee that the codes are of commercial quality or that it is designed to meet all scenarios. We just provide a basic framework. Please use at your own risk.
