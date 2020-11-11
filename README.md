@@ -15,9 +15,16 @@ This work is inspired by Arikan's 2019 Shannon Lecture and accompanying papers.
 [5] Sason, Igal, and Shlomo Shamai. Performance analysis of linear codes under maximum-likelihood decoding: A tutorial. Now Publishers Inc, 2006. (https://webee.technion.ac.il/people/sason/monograph_postprint.pdf)
 
 Notes : 
-1. The curves that indicate SP Polar Codes are not Arikan's PAC codes.
+1. The curves that indicate SP Polar Codes are selectively precoded polar codes (https://arxiv.org/pdf/2011.04930.pdf).
 2. ShortPolarCodesSim.pdf shows the BLER simulation results of short polar code variants for R = 0.5, N = 128. In case of CA-SCL, 8-bit CRC is used.
 3. TubShortPolarCodes.pdf shows the Truncated Union Bound analysis of short polar code variants for R = 0.5, N = 128.
 
 This is a work in progress.
 We will update the results as simulation progresses.
+
+We have added a C++ file spp.cpp which can be compiled using g++ compiler. 
+Using this code, codeword weight analysis can be done for both SPP and PAC codes.
+It is possible to do codeword weight analysis with these codes.
+fRM_128.txt has the information bit indices to be used for RM rate profiling. 
+
+
