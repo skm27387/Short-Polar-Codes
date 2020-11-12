@@ -24,7 +24,6 @@ We will update the results as simulation progresses.
 
 We have added a C++ file spp.cpp which can be compiled using g++ compiler. 
 Using this code, codeword weight analysis can be done for both SPP and PAC codes.
-It is possible to do codeword weight analysis with these codes.
 fRM_128.txt has the information bit indices to be used for RM rate profiling. 
 
 
