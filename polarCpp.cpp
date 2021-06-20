@@ -118,7 +118,7 @@ void initPolar()
 			}
 		}
 	}
-	for (int i = K; i < N; i++)
+	for (int i = N-K; i < N; i++)
 	{
 		f[Q1[i]] = 1;
 	}
